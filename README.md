@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d-abiyoga
-- 👀 I’m interested in programming, cycling, running
+- 👀 I’m interested in programming, cycling, running, investing in stock
 - 🌱 I’m currently learning vanilla JavaScript to kickstart my career on web development.
 - 💞️ I’m looking to collaborate on co-learning.
 - 📫 How to reach me through my mail on dimas.abiyoga169@gmail.com
