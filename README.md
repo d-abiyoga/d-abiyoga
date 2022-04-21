@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d-abiyoga
 - 👀 I’m interested in programming, cycling, running, investing in stock
-- 🌱 I’m currently learning Reactjs, Nextjs, TypeScript, and Jest to kickstart my career on web development.
-- 💞️ I’m looking to collaborate on co-learning.
+- 🌱 I’m currently learning Reactjs, Nextjs, TypeScript, Jest, and Golang to kickstart my career on web development.
+- 💞️ I’m open to collaborate on co-learning and freelance work.
 - 📫 How to reach me through my mail on dimas.abiyoga169@gmail.com
 
 <!---
